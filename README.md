@@ -123,13 +123,13 @@ areas = {
 
 | Projeto / Project | Descrição / Description | Stack |
 |---|---|---|
-| [abastecimento-farmacia-ml](https://github.com/helano-pessoa/abastecimento-farmacia-ml) | 🏥 Predição de abastecimento para rede de farmácias / Replenishment prediction for pharmacy chain | `Python` `LightGBM` `Polars` |
+| [ab-testing-libraries](https://github.com/helano-pessoa/ab-testing-libraries) | 📊 Comparação de bibliotecas de teste A/B / A/B testing library comparison | `Python` `tea-tasting` `statsmodels` |
 | [cutting_stock_api](https://github.com/helano-pessoa/cutting_stock_api) | ✂️ API REST para o problema de corte de estoque / REST API for cutting stock problem | `Python` `FastAPI` `OR-Tools` |
 | [knapsack-app](https://github.com/helano-pessoa/knapsack-app) | 🎒 App interativo para o problema da mochila / Interactive knapsack problem app | `Python` `Streamlit` `Docker` |
 | [cflp](https://github.com/helano-pessoa/cflp) | 🏭 Localização de instalações capacitadas / Capacitated facility location | `Julia` `JuMP` `Cbc` |
 | [Stim.jl](https://github.com/helano-pessoa/Stim.jl) | 📦 Pacote Julia de otimização / Julia optimization package | `Julia` `JuMP` |
-| [case-suzano-helano](https://github.com/helano-pessoa/case-suzano-helano) | 🌲 Otimização logística florestal (Suzano) / Forest logistics optimization | `Python` `MILP` |
 | [tpp](https://github.com/helano-pessoa/tpp) | 🛒 Traveling Purchaser Problem | `Python` `Pyomo` `Julia` |
+| [socratica-puzzle](https://github.com/helano-pessoa/socratica-puzzle) | 🧩 Puzzle matemático como problema de otimização / Math puzzle as IP | `Julia` `JuMP` |
 
 ---
 
