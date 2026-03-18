@@ -1,0 +1,5 @@
+# helano-pessoa profile repo — no code, no build artifacts
+.vscode/
+.github/
+.DS_Store
+Thumbs.db
