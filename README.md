@@ -45,8 +45,8 @@ areas = {
 Data Scientist with **7+ years of experience** in data science and mathematical optimization, delivering **Operations Research, Machine Learning, and Data Engineering** solutions across energy, logistics, retail, finance, and metallurgy.
 
 - 🎓 **B.Sc. in Industrial Mathematics** — Federal University of Ceará
-- 📚 **M.Sc. in Operations Research** *(in progress)* — Federal University of Ceará *(expected: 2027)*
-- 💼 **Data Scientist** @ Radix Engineering and Software *(Sep 2025 – present)*
+- 📚 **M.Sc. in Operations Research** *(in progress)* — Federal University of Ceará
+- 💼 **Data Scientist** @ Radix Engineering and Software
 - 📍 Fortaleza, Ceará, Brazil
 
 ### What I do
