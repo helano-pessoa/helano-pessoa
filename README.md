@@ -17,8 +17,8 @@
 Cientista de Dados com **7+ anos de experiência** em ciência de dados e otimização matemática, atuando em projetos de **Pesquisa Operacional, Machine Learning e Engenharia de Dados** em setores como energia, logística, varejo, finanças e metalurgia.
 
 - 🎓 **Bacharel em Matemática Industrial** — Universidade Federal do Ceará
-- 📚 **Mestrando em Pesquisa Operacional** — Universidade Federal do Ceará *(previsão: 2027)*
-- 💼 **Cientista de Dados** @ Radix Engenharia e Software *(Set 2025 – presente)*
+- 📚 **Mestrando em Pesquisa Operacional** — Universidade Federal do Ceará
+- 💼 **Cientista de Dados** @ Radix Engenharia e Software
 - 📍 Fortaleza, Ceará, Brasil
 
 ### O que eu faço
