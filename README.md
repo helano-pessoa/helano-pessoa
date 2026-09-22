@@ -15,7 +15,7 @@
 
 Sou Cientista de Dados na **GOL Linhas Aéreas**, com mais de seis anos de experiência em Pesquisa Operacional, otimização matemática, ciência de dados e desenvolvimento de soluções de apoio à decisão.
 
-Minha experiência inclui modelos de otimização, simuladores, previsão de demanda e aplicações analíticas nos setores de aviação, logística, energia, varejo, finanças, alimentos e metalurgia. Sou bacharel em Matemática Industrial, mestrando em Pesquisa Operacional e aluno de MBA em Advanced Analytics and Business Optimization.
+Minha experiência inclui modelos de otimização, simuladores, previsão de demanda e aplicações analíticas nos setores de aviação, logística, energia, varejo, finanças, alimentos e metalurgia. Sou bacharel em Matemática Industrial, mestrando em Pesquisa Operacional na Universidade Federal do Ceará e aluno do MBA em Advanced Analytics and Business Optimization na Universidade Federal do Paraná (UFPR).
 
 Tenho interesse especial em transformar problemas operacionais em modelos matemáticos, implementações reproduzíveis e decisões que possam ser explicadas às áreas de negócio.
 
@@ -23,7 +23,7 @@ Tenho interesse especial em transformar problemas operacionais em modelos matem�
 
 I am a Data Scientist at **GOL Linhas Aéreas**, with more than six years of experience in Operations Research, mathematical optimization, data science, and decision-support solutions.
 
-My background includes optimization models, simulators, demand forecasting, and analytical applications across aviation, logistics, energy, retail, finance, food, and manufacturing. I hold a B.Sc. in Industrial Mathematics and I am currently pursuing an M.Sc. in Operations Research and an MBA in Advanced Analytics and Business Optimization.
+My background includes optimization models, simulators, demand forecasting, and analytical applications across aviation, logistics, energy, retail, finance, food, and manufacturing. I hold a B.Sc. in Industrial Mathematics and I am currently pursuing an M.Sc. in Operations Research at the Federal University of Ceará and an MBA in Advanced Analytics and Business Optimization at the Federal University of Paraná (UFPR).
 
 I am particularly interested in turning operational problems into mathematical models, reproducible implementations, and decisions that can be clearly communicated to business teams.
 
