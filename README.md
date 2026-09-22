@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-helano--pessoa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/helano-pessoa)
 [![Email](https://img.shields.io/badge/Email-helanopessoa1903%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:helanopessoa1903@gmail.com)
-[![CV English](https://img.shields.io/badge/CV-English-2E7D8C?style=flat-square)](https://github.com/helano-pessoa/cv/blob/master/CV_Helano_EN.pdf)
-[![CV Português](https://img.shields.io/badge/CV-Português-2E7D8C?style=flat-square)](https://github.com/helano-pessoa/cv/blob/master/CV_Helano_PT.pdf)
 
 </div>
 
@@ -37,16 +35,23 @@ I am particularly interested in turning operational problems into mathematical m
 | Data platforms | BigQuery, Databricks, PySpark, Airflow, Docker |
 | Applications | FastAPI, Streamlit, Plotly, Power BI, Looker Studio |
 
-## Selected projects
+## ORKit — Operations Research learning projects
 
-| Project | Decision problem | Stack |
+I am building **ORKit**, an educational project connecting mathematical modeling, reproducible code, uncertainty and decision communication. My current research interest is **optimization under uncertainty**.
+
+- [Free newsvendor pilot](https://github.com/helano-pessoa/orkit-free/tree/master/pilotos/newsvendor): two-stage stochastic modeling with Python, Pyomo and HiGHS; independent checks, a Jupyter lesson, study guide and exercises.
+- [ORKit free library](https://github.com/helano-pessoa/orkit-free): the public learning repository. Julia/JuMP extensions are part of the roadmap.
+
+## Selected public projects
+
+| Project | Focus | Status |
 |---|---|---|
-| [Cutting Stock API](https://github.com/helano-pessoa/cutting_stock_api) | Generate cutting patterns that meet demand while reducing material waste | Python, FastAPI, OR-Tools |
-| [Knapsack App](https://github.com/helano-pessoa/knapsack-app) | Select the most valuable combination of items under a capacity constraint | Python, PuLP, Streamlit, Docker |
-| [Capacitated Facility Location](https://github.com/helano-pessoa/cflp) | Choose facilities and allocate customers while respecting capacity | Julia, JuMP, Cbc |
-| [Traveling Purchaser Problem](https://github.com/helano-pessoa/tpp) | Plan purchasing routes while balancing travel and acquisition costs | Python, Pyomo, Julia |
-| [Socratica Optimization Puzzle](https://github.com/helano-pessoa/socratica-puzzle) | Formulate a mathematical puzzle as an integer optimization model | Julia, JuMP, Cbc |
-| [A/B Testing Libraries](https://github.com/helano-pessoa/ab-testing-libraries) | Compare statistical tools for experiment design and analysis | Python, statsmodels, SciPy |
+| [ORKit](https://github.com/helano-pessoa/orkit-free) | Applied Operations Research and decisions under uncertainty | Current educational project |
+| [Socratica puzzle](https://github.com/helano-pessoa/socratica-puzzle) | Mathematical modeling with Julia/JuMP | Earlier study; attributed challenge |
+| [Knapsack app](https://github.com/helano-pessoa/knapsack-app) | Capacity-constrained selection | Earlier prototype |
+| [A/B testing libraries](https://github.com/helano-pessoa/ab-testing-libraries) | Statistical experimentation | Study outline; experiments not yet versioned |
+
+Curriculum vitae in Portuguese or English is available [on request](mailto:helanopessoa1903@gmail.com). Project demonstrations use synthetic or otherwise suitable public data; private professional work is not distributed here.
 
 ## Publications
 
