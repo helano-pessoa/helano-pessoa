@@ -35,18 +35,10 @@ I am particularly interested in turning operational problems into mathematical m
 | Data platforms | BigQuery, Databricks, PySpark, Airflow, Docker |
 | Applications | FastAPI, Streamlit, Plotly, Power BI, Looker Studio |
 
-## ORKit — Operations Research learning projects
-
-I am building **ORKit**, an educational project connecting mathematical modeling, reproducible code, uncertainty and decision communication. My current research interest is **optimization under uncertainty**.
-
-- [Free newsvendor pilot](https://github.com/helano-pessoa/orkit-free/tree/master/pilotos/newsvendor): two-stage stochastic modeling with Python, Pyomo and HiGHS; independent checks, a Jupyter lesson, study guide and exercises.
-- [ORKit free library](https://github.com/helano-pessoa/orkit-free): the public learning repository. Julia/JuMP extensions are part of the roadmap.
-
 ## Selected public projects
 
 | Project | Focus | Status |
 |---|---|---|
-| [ORKit](https://github.com/helano-pessoa/orkit-free) | Applied Operations Research and decisions under uncertainty | Current educational project |
 | [Socratica puzzle](https://github.com/helano-pessoa/socratica-puzzle) | Mathematical modeling with Julia/JuMP | Earlier study; attributed challenge |
 | [Knapsack app](https://github.com/helano-pessoa/knapsack-app) | Capacity-constrained selection | Earlier prototype |
 | [A/B testing libraries](https://github.com/helano-pessoa/ab-testing-libraries) | Statistical experimentation | Study outline; experiments not yet versioned |
