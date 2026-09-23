@@ -41,7 +41,6 @@ I am particularly interested in turning operational problems into mathematical m
 |---|---|---|
 | [Socratica puzzle](https://github.com/helano-pessoa/socratica-puzzle) | Mathematical modeling with Julia/JuMP | Earlier study; attributed challenge |
 | [Knapsack app](https://github.com/helano-pessoa/knapsack-app) | Capacity-constrained selection | Earlier prototype |
-| [A/B testing libraries](https://github.com/helano-pessoa/ab-testing-libraries) | Statistical experimentation | Study outline; experiments not yet versioned |
 
 Curriculum vitae in Portuguese or English is available [on request](mailto:helanopessoa1903@gmail.com). Project demonstrations use synthetic or otherwise suitable public data; private professional work is not distributed here.
 
